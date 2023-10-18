@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.main-container{
+    background-color: darkseagreen;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pokeButton{
+    background-color:darkcyan;
+    border: 2px solid black;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    color: aliceblue;
+    margin-top: 15px;
+}
+.pokemonList{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(237, 235, 235);
+}
+.container-pokeList{
+    background-color: lightyellow;
+    padding-top: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
